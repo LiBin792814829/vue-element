@@ -3,6 +3,9 @@ export default {
   data() {
     return {};
   },
+  methods: {
+    getData() {},
+  },
   // eslint-disable-next-line no-unused-vars
   render(h) {
     return (
